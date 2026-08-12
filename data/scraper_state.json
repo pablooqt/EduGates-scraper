@@ -1,0 +1,42 @@
+{
+  "source": "glints",
+  "mode": "full",
+  "last_page": 1,
+  "total_pages": 1,
+  "records_processed": 25,
+  "stats": {
+    "inserted": 25,
+    "updated": 0,
+    "unchanged": 0,
+    "errors": 0
+  },
+  "processed_source_ids": [
+    "a1a5f1f1-ff38-44b2-9b26-fd1318136494",
+    "582ac468-d46e-4846-9338-9259a71d6e0a",
+    "5348a56e-d90a-4676-bbf3-35b2388fbf1f",
+    "8b280396-3df0-4bef-b4d4-5299b26cdebf",
+    "669371bc-400d-4c76-8add-6a6337d3c0f2",
+    "e0155d9f-4ef8-4aff-af4b-7712987b8592",
+    "b69a92cc-889c-4352-97b6-60305e3c1428",
+    "119ce309-1dde-4551-9cca-92a77e300d78",
+    "396e536d-406f-4194-a884-38a2008a6909",
+    "e94fe714-c61d-40cd-8456-9faf457f2b78",
+    "57d98094-9f44-4a86-ac36-28b83f55a2c6",
+    "68cc2bfe-1ba8-4246-a93c-56944df695a5",
+    "cace7574-b2f3-4ef4-9328-ee7bd12cacd9",
+    "668059ea-d201-441f-9c72-a638f113a3a0",
+    "6437486f-2fbe-4b61-80e1-a8c22f26531b",
+    "b990b19b-a7cf-42fe-b850-9e2c1e87452d",
+    "47c2eacd-f847-423a-84c5-7251b023f129",
+    "b8b4aec1-5967-4ab6-85bf-3f567c980008",
+    "a6911f44-7128-4f1f-bda2-48de35b9537f",
+    "d9f2bfa0-c57d-4073-a325-8102b19d7cb5",
+    "f76dfe42-526a-4118-a0d4-1774ec0e9896",
+    "7a54056a-2f81-4ae5-b124-4f8d49a8ea2b",
+    "f8cf8fa7-74c3-474b-b998-1fc1237afa68",
+    "86428525-d093-46c6-8c3c-8190934340b0",
+    "86ebbee6-1788-4603-8e7a-7af9c8ec4384"
+  ],
+  "started_at": "2026-08-11T07:00:40Z",
+  "updated_at": "2026-08-11T07:00:40Z"
+}
